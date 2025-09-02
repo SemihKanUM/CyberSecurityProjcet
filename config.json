@@ -1,0 +1,18 @@
+{
+    "id": "Client1",
+    "password": "securePass123",
+    "server": {
+        "ip": "127.0.0.1",
+        "port": "5000"
+    },
+    "actions": {
+        "delay": 2,
+        "steps": [
+            "INCREASE 10",
+            "DECREASE 5",
+            "INCREASE 15"
+        ]
+    }
+}
+
+
